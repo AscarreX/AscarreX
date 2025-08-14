@@ -12,7 +12,7 @@
 
 😉 My projects run on the best languages, just like me.
 
-<a href="https://github.com/AscarreX"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ascarre15&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/AscarreX"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AscarreX&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ---
 
